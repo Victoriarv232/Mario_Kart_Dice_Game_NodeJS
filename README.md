@@ -1,4 +1,5 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h2>Curso da DIO.me - mobile developer</h2>
 
   <table>
         <tr>
@@ -100,4 +101,7 @@
 <b>Condição de vitória:</b>
 
 <input type="checkbox" id="vitoria-item" />
-<label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+<label for="vitoria-item">Ao final, vence quem acumulou mais pontos!</label>
+<hr>
+<p>Readme.md instrutivo feito por felipeAguiarCode</p>
+<p>https://github.com/digitalinnovationone/formacao-nodejs/blob/main/03-projeto-mario-kart/readme.md</p>
